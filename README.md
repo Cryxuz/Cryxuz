@@ -1,4 +1,4 @@
-### Kia ora Earthling 👋
+### Kia ora!! 👋
 
 I'm a passionate full stack software developer with a passion for creative problem-solving, keen attention to detail, and an insatiable drive for learning. My diverse background, featuring extensive experience in demanding kitchen roles, equips me to excel in dynamic environments. I thrive under pressure, expertly juggling multiple tasks and planning strategically. I've seamlessly transferred these skills to my software development journey, wholeheartedly embracing collaboration and continuous improvement to enhance my technical prowess and make a lasting impact in the field.
 
