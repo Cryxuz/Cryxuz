@@ -4,6 +4,5 @@ I'm a passionate full stack software developer with a passion for creative probl
 
 - 🔭 I’m currently working on an e-commerce website and personal website.
   
-- 🌱 I’m currently learning C#, Tailwind
-  
+- 🌱 I’m currently learning C# and MongoDB
 - ⚡ Fun fact: I have a deep love for learning and am constantly seeking out new opportunities for growth. Recently, I successfully completed a software development course at Dev Academy Aotearoa.
